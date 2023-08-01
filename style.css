@@ -1,0 +1,20 @@
+@import url(styles/header.css);
+
+:root{
+    --cor-de-fundo: #000000;
+    --branco: #ffffff;
+    --amarelo:#fdc600;
+    --roxo:#6200ff;
+    --roxo-degrade:#6e88db;
+    --font-principal: "poppins"
+
+
+
+
+}
+body{ 
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
